@@ -1,0 +1,202 @@
+
+#container {
+        width: 960px;
+        margin: 0 auto;
+
+}
+    
+#header {
+        width: 960px;
+        height: 50px;
+        margin-top: 3px;
+        margin-bottom: 5px;
+        color: #FFFAF0;
+        text-align: center;
+        border: solid #E8ADAA;
+        background-color: #E8ADAA;
+        font-family: Lucida;
+        
+}
+
+
+#navibar{
+        width: 960px;
+        height: 30px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+        border: solid #DCDCDC;
+        background-color: #DCDCDC;
+        font-size: 20px;
+        font-family: Lucida;
+        text-align: center;
+        font-weight: bold;
+        padding-top: 0px;
+        padding-bottom: 25px;
+        color: #FFFAF0;
+
+
+
+}     
+
+#menu {
+        
+        float: left;
+        width: 240px;
+        height: 600px;
+        border: none;
+        font-family: Lucida;
+        color: #493D26;
+}
+
+#contents {
+        float: left;
+        width: 479px;
+        height: 600px;
+        border: solid #585C5C;
+}
+
+#media {
+        float: right;
+        width: 222px;
+        height: 600px;
+        
+     
+}
+
+#footer{
+        width: 960px;
+        clear: both;
+        height: 50px;
+        margin: 0 auto;
+        color: #FFFAF0;
+        border: solid #E8ADAA;
+        background-color: #E8ADAA;
+        text-align: center;
+        font-weight: bold;
+        font-size: 16px;
+        font-family: Lucida;
+
+}
+
+h1{
+        margin-top: 13px;
+        margin-bottom: 20px;
+
+
+}  
+
+.navilist{
+
+        display: inline;
+        text-decoration: none;
+        padding: 5px 30px;
+        text-align: center;
+}
+
+.menu{
+        
+        text-align: center;
+        text-decoration: underline; 
+        font-weight: bold;
+        padding-top: 30px;
+}
+
+li:hover{
+        color: #493D26;
+        text-decoration: underline;
+}     
+
+li{
+        padding: 3px;
+}
+
+a:link{
+        color: #493D26;
+        text-decoration: none;
+}
+
+a:hover{
+        color: #C58917;
+        text-decoration: underline;
+}
+
+
+a{
+        text-decoration: none;
+        color: #493D26;
+}
+   
+ .topimage{
+        
+        width: 479px;
+        height: 150px;
+        background-image: url("http://blog.anntaylor.com/wp-content/uploads/2012/04/tumblr_m2bvkpUBlj1qcl9qjo1_1280.png");
+        background-size: 100%;
+        
+        background-repeat: no-repeat;
+               
+}
+
+article:hover{
+
+       background-color: #BDC5C4;
+}
+
+article{
+
+        display: inline-block;
+        float: left;
+        width: 50%;
+        font-family: Lucida;
+        margin-top: 5px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    
+        
+}
+.mainP{
+        float: left;
+        margin: auto;
+        padding: 3px 3px;
+
+}
+
+.mediaAlpha{
+        display: block;
+        margin-top: 5px;
+        margin-right: 5px;
+        margin-left: 7px;
+        width: 200px;
+        height: 300px;
+        background-image: url("http://www.thelovelyfind.com/wp-content/uploads/2013/12/blush-gold-ballet-wedding-inspiration-23.jpg");
+        background-size: 100%;
+        background-repeat: no-repeat;
+        border: solid #585C5C;
+}
+
+.mediaBeta{
+        display: block;
+        margin-top: 3px;
+        margin-left: 11px;
+        margin-right: 5px;
+        margin-left: 7px;
+        margin-bottom: 5px;
+        width: 200px;
+        height: 266px;
+        background-image: url("http://static.weddingchicks.com/wp-content/uploads/2012/08/groomsman_outfit_ideas.jpg");
+        background-size: 100%;
+        background-repeat: no-repeat;
+        border: solid #585C5C;
+}
+
+.footerlist{
+
+        display: inline;
+        text-decoration: none;
+        text-align: center;
+        padding: 5px 20px;
+
+
+
+}
+        
